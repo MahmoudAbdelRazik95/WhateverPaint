@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shapes>
+    <type T="Rectangle">
+        <xpoint>214</xpoint>
+        <ypoint>102</ypoint>
+        <length>256.0</length>
+        <width>621.0</width>
+        <Pensize>0</Pensize>
+        <colour>
+            <redcomponent>0</redcomponent>
+            <greencomponent>0</greencomponent>
+            <bluecomponent>0</bluecomponent>
+        </colour>
+        <colourfill>
+            <redfillcomponent>0</redfillcomponent>
+            <greenfillcomponent>0</greenfillcomponent>
+            <bluefillcomponent>0</bluefillcomponent>
+        </colourfill>
+    </type>
+    <type T="Rectangle">
+        <xpoint>769</xpoint>
+        <ypoint>132</ypoint>
+        <length>244.0</length>
+        <width>950.0</width>
+        <Pensize>0</Pensize>
+        <colour>
+            <redcomponent>0</redcomponent>
+            <greencomponent>0</greencomponent>
+            <bluecomponent>0</bluecomponent>
+        </colour>
+        <colourfill>
+            <redfillcomponent>0</redfillcomponent>
+            <greenfillcomponent>0</greenfillcomponent>
+            <bluefillcomponent>0</bluefillcomponent>
+        </colourfill>
+    </type>
+    <type T="Rectangle">
+        <xpoint>461</xpoint>
+        <ypoint>56</ypoint>
+        <length>228.0</length>
+        <width>776.0</width>
+        <Pensize>0</Pensize>
+        <colour>
+            <redcomponent>0</redcomponent>
+            <greencomponent>0</greencomponent>
+            <bluecomponent>0</bluecomponent>
+        </colour>
+        <colourfill>
+            <redfillcomponent>0</redfillcomponent>
+            <greenfillcomponent>0</greenfillcomponent>
+            <bluefillcomponent>0</bluefillcomponent>
+        </colourfill>
+    </type>
+    <type T="Rectangle">
+        <xpoint>570</xpoint>
+        <ypoint>272</ypoint>
+        <length>424.0</length>
+        <width>832.0</width>
+        <Pensize>0</Pensize>
+        <colour>
+            <redcomponent>0</redcomponent>
+            <greencomponent>0</greencomponent>
+            <bluecomponent>0</bluecomponent>
+        </colour>
+        <colourfill>
+            <redfillcomponent>0</redfillcomponent>
+            <greenfillcomponent>0</greenfillcomponent>
+            <bluefillcomponent>0</bluefillcomponent>
+        </colourfill>
+    </type>
+    <type T="Rectangle">
+        <xpoint>850</xpoint>
+        <ypoint>219</ypoint>
+        <length>342.0</length>
+        <width>1010.0</width>
+        <Pensize>0</Pensize>
+        <colour>
+            <redcomponent>0</redcomponent>
+            <greencomponent>0</greencomponent>
+            <bluecomponent>0</bluecomponent>
+        </colour>
+        <colourfill>
+            <redfillcomponent>0</redfillcomponent>
+            <greenfillcomponent>0</greenfillcomponent>
+            <bluefillcomponent>0</bluefillcomponent>
+        </colourfill>
+    </type>
+</Shapes>
